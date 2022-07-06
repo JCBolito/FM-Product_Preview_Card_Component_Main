@@ -89,13 +89,13 @@ button:hover {
 	background-color: hsl(158, 36%, 52%);
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 650px) {
 	.desktopImage {
 		display: none;
 	}
 }
 
-@media screen and (min-width: 1441px) {
+@media screen and (min-width: 651px) {
 	.mobileImage {
 		display: none;
 	}
