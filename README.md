@@ -12,11 +12,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 - This mini-project involves the creation of a responsive product preview card component using plain HTML and CSS. 
@@ -29,15 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop Interface](./screenshots/desktop-interface.png)
+![Mobile Interface](./screenshots/mobile-interface.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -59,7 +50,6 @@ Breaking down the project into smaller chunks, the following process were taken 
 - Flexbox
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -111,4 +101,4 @@ Although I am satisfied with my final output on this project, I feel like I stil
 ## Author
 
 - Website - [Joshua Caleb Bolito](https://github.com/JCBolito)
-- Frontend Mentor - [@JCBolitoe](https://www.frontendmentor.io/profile/JCBolito)
+- Frontend Mentor - [@JCBolito](https://www.frontendmentor.io/profile/JCBolito)
