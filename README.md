@@ -35,7 +35,7 @@ Users should be able to:
 - Solution URL: 
 	- [HTML](https://github.com/JCBolito/product-preview-card-component-main/blob/main/index.html)
 	- [CSS](https://github.com/JCBolito/product-preview-card-component-main/blob/main/style.css)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://jcbolito.github.io/product-preview-card-component-main/)
 
 ## My process
 Breaking down the project into smaller chunks, the following process were taken to guarantee the project's completion:
