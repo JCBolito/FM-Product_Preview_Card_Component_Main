@@ -60,7 +60,7 @@ I also got to write Media Queries by myself after a long time of not having to, 
 I used the following media query to hide the image dedicated for desktops when the current device resolution is less than 1440px wide:
 
 ```css
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 650px) {
 	.desktopImage {
 		display: none;
 	}
@@ -70,7 +70,7 @@ I used the following media query to hide the image dedicated for desktops when t
 And, I used the following media query to adjust the contents of the webpage accordingly when the device resolution is 1441px wide and above or when the device resolution is the same as that of desktop or laptop monitors.
 
 ```css
-@media screen and (min-width: 1441px) {
+@media screen and (min-width: 651px) {
 	.mobileImage {
 		display: none;
 	}
