@@ -32,10 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-	- [HTML](https://github.com/JCBolito/product-preview-card-component-main/blob/main/index.html)
-	- [CSS](https://github.com/JCBolito/product-preview-card-component-main/blob/main/style.css)
-- Live Site URL: [GitHub Pages](https://jcbolito.github.io/product-preview-card-component-main/)
+- Solution URL: [GitHub Repository](https://github.com/JCBolito/FM-Product-Preview-Card-Component-Main/)
+- Live Site URL: [GitHub Pages](https://jcbolito.github.io/FM-Product-Preview-Card-Component-Main/)
 
 ## My process
 Breaking down the project into smaller chunks, the following process were taken to guarantee the project's completion:
