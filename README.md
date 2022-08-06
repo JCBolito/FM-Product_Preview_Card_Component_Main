@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/JCBolito/FM-Product-Preview-Card-Component-Main/)
-- Live Site URL: [GitHub Pages](https://jcbolito.github.io/FM-Product-Preview-Card-Component-Main/)
+- Solution URL: [GitHub Repository](https://github.com/JCBolito/FM-Product_Preview_Card_Component_Main/)
+- Live Site URL: [GitHub Pages](https://jcbolito.github.io/FM-Product_Preview_Card_Component_Main//)
 
 ## My process
 Breaking down the project into smaller chunks, the following process were taken to guarantee the project's completion:
